@@ -15,14 +15,14 @@ class Game {
         this.changePlayer();
   
         if (this.checkWin()) {
-          alert("Winner: " + this.winner);
+          alert("You did great job " + this.winner + "!");
           this.initGame();
         } else if (this.checkFullBoard()) {
-          alert("Draw!");
+          alert("That's a draw, my friend!");
           this.initGame();
         }
       } else {
-        alert("This move is incorrect");
+        alert("Do not try to cheat!");
       }
     }
   
