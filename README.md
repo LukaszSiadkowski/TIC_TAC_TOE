@@ -1,1 +1,2 @@
-Look up this project at https://lukaszsiadkowski.github.io/kolkoIKrzyzyk/
+Look up this project here:
+https://lukaszsiadkowski.github.io/TIC_TAC_TOE/
